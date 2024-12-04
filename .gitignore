@@ -1,0 +1,22 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific folders
+.vs/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Debugger working folder
+.vshistory/
+
+# Visual Studio Code settings
+.vscode/
+
+# Others
+*.log
